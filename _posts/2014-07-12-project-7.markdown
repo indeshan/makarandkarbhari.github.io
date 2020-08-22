@@ -1,1 +1,14 @@
-erre
+---
+title: Integrate the external hardware with the CATIA using the Arduino controller 
+subtitle: Steering wheel joystick 
+layout: default
+modal-id: 7
+date: 2014-07-15
+img: arduino.jpeg
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Description- Steering wheel joystick is used to apply brakes/steering inputs. Depending upon the control algorithm control actions are performed.
+---
