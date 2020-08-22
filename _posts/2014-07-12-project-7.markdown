@@ -1,10 +1,11 @@
 ---
-title: Integrate the external hardware with the CATIA using the Arduino controller 
-subtitle: Steering wheel joystick 
+title: generating a mesh from a 3D point cloud data 
+subtitle: curve-based approach
 layout: default
 modal-id: 7
 date: 2014-07-15
-img: arduino.jpeg
+img: 3Dpoint2.jpeg
+img: 3Dpoint1.jpeg
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: April 2014
