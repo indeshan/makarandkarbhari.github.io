@@ -1,6 +1,6 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Object position and orientation
+subtitle: 2D object and position orientation
 layout: default
 modal-id: 3
 date: 2014-07-16
@@ -10,6 +10,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: Solution- In this experiment I achieved this by using a webcam and LabVIEW software. The object can be located with the help of three co-ordinates i.e. by measuring distance in X, Y and Z direction. In our case I assumed the camera to be at the fixed distance from the object plane which means my distance in Z direction of rotation i.e. along Z direction. 
 ---
