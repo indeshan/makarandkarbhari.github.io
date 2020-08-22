@@ -1,6 +1,6 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Object Identification using YOLO V3
+subtitle: Grasping points based on their geometrical properties
 layout: default
 modal-id: 2
 date: 2014-07-17
