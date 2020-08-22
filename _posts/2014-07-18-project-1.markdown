@@ -4,7 +4,7 @@ subtitle: To determine dynamic torque
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
+img: dynamictorque.jpeg
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
