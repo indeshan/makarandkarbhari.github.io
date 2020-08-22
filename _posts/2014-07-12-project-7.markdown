@@ -11,5 +11,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Description- Isophotes Mapping Analysis (Showing Continuity between Surfaces)
+description: Distance Analysis(Max Distance Deviation=0.77mm)
 ---
