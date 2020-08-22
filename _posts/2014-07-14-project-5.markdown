@@ -4,7 +4,7 @@ subtitle: Cost effective and interacivev machine which can climb the areca nut t
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
+img: nuttree.jpeg
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
 project-date: April 2014
