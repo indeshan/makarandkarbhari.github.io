@@ -10,6 +10,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Object identification can be done with various approaches like with the help of barcodes, RFID or vision systems. Based on the constraints and dependencies in our application I identified the object with the help of a camera using the combination of YOLO V3 algorithm for object detection and a color-detection algorithm to classify the object in order to get the classified object’s properties from the metadata. 
+description: Object identification can be done with various approaches like with the help of barcodes, RFID or vision systems. Based on the constraints and dependencies in our application I identified the object with the help of a camera using the combination of YOLO V3 algorithm for object detection and a color-detection algorithm to classify the object in order to get the classified object’s properties from the metadata. 
 
 ---
