@@ -1,6 +1,6 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Wheel Chair Mounted 4R Robotic Arm
+subtitle: To determine dynamic torque
 layout: default
 modal-id: 1
 date: 2014-07-18
@@ -10,6 +10,8 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Solution- The dynamic torque analysis requires a much deeper understanding of the various robotics concepts such as forward and inverse kinematics, velocities and static forces, trajectory generation,  etc. This makes our desired results to be lot complicated if performed by hand. So, I used the MATLAB’s Robotic System Toolbox(RST) to perform this analysis. 
+
+Result- The dynamic torques at each joint of the manipulator were determined using the MATLAB’s RST for the desired positions based upon the application.
 
 ---
