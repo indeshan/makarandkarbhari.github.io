@@ -1,6 +1,6 @@
 ---
-title: Wheel Chair Mounted 4R Robotic Arm
-subtitle: To determine dynamic torque
+title: Transfer Learning Project
+subtitle: Neural Network VGG16
 layout: default
 modal-id: 10
 date: 2014-07-18
