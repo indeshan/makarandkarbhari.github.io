@@ -1,6 +1,6 @@
 ---
-title: Wheel Chair Mounted 4R Robotic Arm
-subtitle: To determine dynamic torque
+title: Prachi Fixtures Pvt.Ltd
+subtitle: Design Intern
 layout: default
 modal-id: 8
 date: 2014-07-18
