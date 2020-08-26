@@ -4,7 +4,7 @@ subtitle: Neural Network VGG16
 layout: default
 modal-id: 10
 date: 2014-07-18
-img: dynamictorque.jpeg
+img: transfer1.jpg
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
