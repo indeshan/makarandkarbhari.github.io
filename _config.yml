@@ -8,16 +8,10 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: #twitter
-    url: #http://twitter.com/jekyllrb
-  - title: #facebook
-    url:
-  - title: #stack-overflow
-    url: #http://stackoverflow.com/questions/tagged/jekyll
   - title: linkedin 
     url: https://www.linkedin.com/in/makarandkarbhari/
-  - title: #github
-    url: #http://github.com/jekyll
+  - title: envelope
+    url: makarand.karbhari@mavs.uta.edu
 
 # Postal address (add as many lines as necessary)
 address:
