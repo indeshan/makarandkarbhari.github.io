@@ -10,5 +10,12 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Solution- The dynamic torque analysis requires a much deeper understanding of the various robotics concepts such as forward and inverse kinematics, velocities and static forces, trajectory generation,  etc. This makes our desired results to be lot complicated if performed by hand. So, I used the MATLAB’s Robotic System Toolbox(RST) to perform this analysis. Result- The dynamic torques at each joint of the manipulator were determined using the MATLAB’s RST for the desired positions based upon the application.
+description: Assisted the design team with the generation of complex 3D part drawings and assembly of the generated parts using SolidWorks.
+
+Generated and reviewed the technical content of drawing, engineering specification and reports and other documentation associated with mechanical design.
+
+Assisted the shop floor manager to take corrective actions to improve safety and quality of the product.
+
+Gained knowledge about various manufacturing processes such as CNC, VMC Machining, Casting , Welding and Grinding. 
+
 ---
