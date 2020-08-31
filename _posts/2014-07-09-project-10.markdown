@@ -1,5 +1,5 @@
 ---
-title: Transfer Learning Project
+title: VGG16 Model using Transfer Learning
 subtitle: Neural Network VGG16
 layout: default
 modal-id: 10
@@ -7,8 +7,8 @@ date: 2014-07-18
 img: transfer1.jpg
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: November 2019
+client: Python, TensorFlow
+category: Neural Networks, Deep Learning
 description: In this assignment, I was using a pretrained network and apply it to new dataset. A pretrained Neural network called VGG16 was used for this purpose. 4 different class of test images were provided and the neural network that I created was able to detect these classes successfully with testing accuracy of 73.75%
 ---
