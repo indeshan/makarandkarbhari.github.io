@@ -1,5 +1,5 @@
 ---
-title: Interactive machine for Nut tree 
+title: Automated Areca-nut Tree Climber and Cutter
 subtitle: Cost effective and interacivev machine which can climb the areca nut tree and cut fruits
 layout: default
 modal-id: 5
@@ -7,9 +7,8 @@ date: 2014-07-14
 img: nuttree.jpeg
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: May 2018
+client: 3DEXPERIENCE, SIMULIA, Arduino 
+category: Prototype Design and Manufacturing, FEA Analysis
 description: Solution- A mechanism which considered the varying diameter of the trunk of the areca nut tree was developed. Also, keeping in mind the robustness of the machine static analysis results were obtained with the help of simulation software.
-
 ---
