@@ -1,5 +1,5 @@
 ---
-title: Transformation of the camera
+title: Evaluating Camera Transformation
 subtitle: Design constrants for the camera
 layout: default
 modal-id: 4
