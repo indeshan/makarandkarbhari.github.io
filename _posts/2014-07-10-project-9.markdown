@@ -7,8 +7,8 @@ date: 2014-07-18
 img: snatchblock2.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: February 2019
+client: SolidWorks
+category: CAD Modeling, Mechanical Design
 description: Performed machine design calculation for designing snatch block assembly for load capacity of 80kN. Prepared final design report, CAD model, traveler and engineering drawings of the assembly and final components.
 ---
