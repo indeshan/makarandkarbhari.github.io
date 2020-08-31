@@ -7,8 +7,8 @@ date: 2014-07-18
 img: bicycle2.jpg
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: April 2020
+client: SolidWorks
+category: Part Modeling and Assembly
 description: Designed a model and assembled a bicycle sprocket assembly with appropriate geometric Dimensioning and Tolerances.
 ---
