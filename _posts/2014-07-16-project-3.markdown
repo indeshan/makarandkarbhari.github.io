@@ -1,5 +1,5 @@
 ---
-title: Object position and orientation
+title: Position Determination using Monocular Camera
 subtitle: 2D Object position and orientation
 layout: default
 modal-id: 3
