@@ -7,9 +7,9 @@ date: 2014-07-17
 img: roboticarm.jpeg
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: June 2020
+client: Python, Matlab, Webots
+category: Computer Vision, Robotics
 description: Object identification can be done with various approaches like with the help of barcodes, RFID or vision systems. Based on the constraints and dependencies in our application I identified the object with the help of a camera using the combination of YOLO V3 algorithm for object detection and a color-detection algorithm to classify the object in order to get the classified object’s properties from the metadata. 
 description2 : Object identification can be done with various approaches like with the help of barcodes, RFID or vision systems. Based on the constraints and dependencies in our application I identified the object with the help of a camera using the combination of YOLO V3 algorithm for object detection and a color-detection algorithm to classify the object in order to get the classified object’s properties from the metadata. 
 
