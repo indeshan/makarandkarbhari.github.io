@@ -1,5 +1,5 @@
 ---
-title: Wheelchair Mounted 4R Robotic Arm
+title: Design of Actuators for a 4R Robotic Arm
 subtitle: To determine dynamic torque
 layout: default
 modal-id: 1
