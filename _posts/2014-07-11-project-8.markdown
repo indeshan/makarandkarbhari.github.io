@@ -1,5 +1,5 @@
 ---
-title: Prachi Fixtures Pvt.Ltd
+title: Fixtures Design and Manufacturing
 subtitle: Design Intern
 layout: default
 modal-id: 8
@@ -7,8 +7,8 @@ date: 2014-07-18
 img: prachifixtures.jpg
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: December 2016
+client: SolidWorks
+category: Mechanical Design
 description: Assisted the design team with the generation of complex 3D part drawings and assembly of the generated parts using SolidWorks. Generated and reviewed the technical content of drawing, engineering specification and reports and other documentation associated with mechanical design. Assisted the shop floor manager to take corrective actions to improve safety and quality of the product.Gained knowledge about various manufacturing processes such as CNC, VMC Machining, Casting , Welding and Grinding. 
 ---
