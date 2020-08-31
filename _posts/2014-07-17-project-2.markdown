@@ -1,5 +1,5 @@
 ---
-title: Object Identification using YOLO V3
+title: Object Recognition using Neural Network and Colors
 subtitle: Grasping points based on their geometrical properties
 layout: default
 modal-id: 2
