@@ -870,7 +870,7 @@ body {
 
 /* Container for skill bars */
 .containerSkills {
-  
+  width: 80%; /* Full width */
 
 }
 
