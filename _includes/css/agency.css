@@ -856,14 +856,10 @@ ul.social-buttons li a:active {
 
 img::selection {
     background: 0 0;
-    width:  100px;
-    height: 100px;
 }
 
 img::-moz-selection {
     background: 0 0;
-	width:  100px;
-    height: 100px;
 }
 
 body {
