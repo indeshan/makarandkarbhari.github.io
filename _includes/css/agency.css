@@ -880,6 +880,14 @@ body {
   padding-bottom: 10px; /* Add bottom padding */
   color: white; /* White text color */
 }
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;    
+}
 
 .html {width: 90%; background-color: #4CAF50;} /* Green */
 .css {width: 80%; background-color: #2196F3;} /* Blue */
