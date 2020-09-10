@@ -885,9 +885,9 @@ body {
 .SolidWorks {width: 80%; background-color: #0000ff;} /* Blue */
 .CATIA {width: 60%; background-color: #0000ff;} /* Red */
 .LabVIEW {width: 60%; background-color: #0000ff;}/* Dark Grey */
-.NX {width: 60%; background-color: #0000ff;}/* Dark Grey */
+.NX {width: 80%; background-color: #0000ff;}/* Dark Grey */
 .Webots {width: 60%; background-color: #0000ff;}/* Dark Grey */
-.AutoCAD {width: 60%; background-color: #0000ff;}/* Dark Grey */
-.Python {width: 60%; background-color: #0000ff;}/* Dark Grey */
+.AutoCAD {width: 70%; background-color: #0000ff;}/* Dark Grey */
+.Python {width: 70%; background-color: #0000ff;}/* Dark Grey */
 
 
