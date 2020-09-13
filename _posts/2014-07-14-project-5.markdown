@@ -11,4 +11,5 @@ project-date: May 2018
 client: 3DEXPERIENCE, SIMULIA, Arduino 
 category: Prototype Design and Manufacturing, FEA Analysis, DFA, DFM
 description: Solution- A mechanism which considered the varying diameter of the trunk of the areca nut tree was developed. Also, keeping in mind the robustness of the machine static analysis results were obtained with the help of simulation software.
+video: nuttree.mp4
 ---
