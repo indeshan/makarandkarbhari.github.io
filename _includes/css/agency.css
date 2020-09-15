@@ -881,13 +881,13 @@ body {
   color: white; /* White text color */
 }
 
-.matlab {width: 90%; background-color: #fec503;} /* Yellow */
-.SolidWorks {width: 80%; background-color: #fec503;} /* Yellow */
-.CATIA {width: 60%; background-color: #fec503;} /* Yellow */
-.LabVIEW {width: 60%; background-color: #fec503;} /* Yellow */
-.NX {width: 80%; background-color: #fec503;} /* Yellow */
-.Webots {width: 60%; background-color: #fec503;} /* Yellow */
-.AutoCAD {width: 70%; background-color: #fec503;} /* Yellow */
-.Python {width: 70%; background-color: #fec503;} /* Yellow */
+.matlab {width: 90%; background-color: #ffcbcb;} /* Yellow */
+.SolidWorks {width: 80%; background-color: #a37eba;} /* Yellow */
+.CATIA {width: 60%; background-color: #9d65c9;} /* Yellow */
+.LabVIEW {width: 60%; background-color: #fe7171;} /* Yellow */
+.NX {width: 80%; background-color: #28df99;} /* Yellow */
+.Webots {width: 60%; background-color: #1d2d50;} /* Yellow */
+.AutoCAD {width: 70%; background-color: #d2f6c5;} /* Yellow */
+.Python {width: 70%; background-color: #00b7c2;} /* Yellow */
 
 
