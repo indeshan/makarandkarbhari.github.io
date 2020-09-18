@@ -11,4 +11,5 @@ project-date: April 2020
 client: SolidWorks
 category: Part Modeling and Assembly
 description: Designed a model and assembled a bicycle sprocket assembly with appropriate geometric Dimensioning and Tolerances.
+video: Bicycle_assembly.mp4
 ---
