@@ -11,5 +11,5 @@ project-date: September 2019
 client: LabVIEW
 category: Computer Vision
 description: Solution- In this experiment I achieved this by using a webcam and LabVIEW software. The object can be located with the help of three co-ordinates i.e. by measuring distance in X, Y and Z direction. In our case I assumed the camera to be at the fixed distance from the object plane which means my distance in Z direction of rotation i.e. along Z direction.
-video: Object_position.gif
+video: Object_position.mp4
 ---
