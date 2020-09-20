@@ -11,4 +11,5 @@ project-date: August 2017
 client: 3DEXPERIENCE DELMIA
 category: System Engineering, Dynamic Behaviour and Modeling
 description: Description- Steering wheel joystick is used to apply brakes/steering inputs. Depending upon the control algorithm control actions are performed.
+video: Autosimulator.mp4
 ---
