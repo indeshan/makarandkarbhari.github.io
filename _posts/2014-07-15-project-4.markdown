@@ -10,6 +10,8 @@ alt: image-alt
 project-date: October 2019 
 client: Matlab
 category: Camera Transformation
-description: Result- The intrinsic and extrinsic parameters for the camera were calculated. The iteration technique was used where a checkerboard was mounted on robotic arm’s end-effector and moved through to obtain different posses. The difference between the position of detected checkerboard and checkerboard projected into the camera image is minimized to find the transformation. 
+description: Challenge- To get the transformation of the camera with respect to end-effector of the robotic manipulator.
+description2: Solution- Various transformation techniques were investigated. Optimal technique was selected based on the design constraints for the camera.
+description3: Result- The intrinsic and extrinsic parameters for the camera were calculated. The iteration technique was used where a checkerboard was mounted on robotic arm’s end-effector and moved through to obtain different posses. The difference between the position of detected checkerboard and checkerboard projected into the camera image is minimized to find the transformation. 
 video: evaluating_transformations.mp4
 ---
