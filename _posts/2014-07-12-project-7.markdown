@@ -11,6 +11,6 @@ alt: image-alt
 project-date: February 2018
 client: 3DEXPERIENCE CATIA
 category: Curve Based Design
-description: Distance Analysis(Max Distance Deviation=0.77mm)
+description: Challenge- To generate a mesh from a 3D point cloud data and to create a Class A surface by using curve-based approach.
 video: Reverse_Engineering.mp4
 ---
