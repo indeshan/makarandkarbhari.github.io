@@ -10,6 +10,8 @@ alt: image-alt
 project-date: May 2018
 client: 3DEXPERIENCE, SIMULIA, Arduino 
 category: Prototype Design and Manufacturing, FEA Analysis, DFA, DFM
-description: Solution- A mechanism which considered the varying diameter of the trunk of the areca nut tree was developed. Also, keeping in mind the robustness of the machine static analysis results were obtained with the help of simulation software.
+description: Challenge- To design and manufacture a prototype of costeffective and easy interactive machine which can climb the areca nut tree and to cut the fruits attached to the tree. 
+description2: Solution- A mechanism which considered the varying diameter of the trunk of the areca nut tree was developed. Also, keeping in mind the robustness of the machine static analysis results were obtained with the help of simulation software.
+description3: Result- The machine was able to successfully climb the tree with 33% reduced time that would take an average skilled person to climb tree. Also, the machine cost was less by % compared to wages of the person who climbed the trees per acre.
 video: nuttree.mp4
 ---
