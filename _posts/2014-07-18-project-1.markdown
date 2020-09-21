@@ -10,6 +10,6 @@ alt: image-alt
 project-date: December 2019
 client: Matlab
 category: Robotics
-description: - __Challenge__- To determine the dynamic torques required for the motors in a wheelchair mounted 4R robotic arm. __Solution__- The dynamic torque analysis requires a much deeper understanding of the various robotics concepts such as forward and inverse kinematics, velocities and static forces, trajectory generation, etc. This makes our desired results to be lot complicated if performed by hand. So, I used the MATLAB’s Robotic System Toolbox(RST) to perform this analysis. __Result__- The dynamic torques at each joint of the manipulator were determined using the MATLAB’s RST for the desired positions based upon the application.
+description: Challenge- To determine the dynamic torques required for the motors in a wheelchair mounted 4R robotic arm. Solution- The dynamic torque analysis requires a much deeper understanding of the various robotics concepts such as forward and inverse kinematics, velocities and static forces, trajectory generation, etc. This makes our desired results to be lot complicated if performed by hand. So, I used the MATLAB’s Robotic System Toolbox(RST) to perform this analysis. Result- The dynamic torques at each joint of the manipulator were determined using the MATLAB’s RST for the desired positions based upon the application.
 video: Torque_ppt.mp4
 ---
