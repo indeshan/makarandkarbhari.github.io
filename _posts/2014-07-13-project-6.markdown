@@ -10,6 +10,8 @@ alt: image-alt
 project-date: August 2017
 client: 3DEXPERIENCE DELMIA
 category: System Engineering, Dynamic Behaviour and Modeling
-description: Description- Steering wheel joystick is used to apply brakes/steering inputs. Depending upon the control algorithm control actions are performed.
+description: Challenge- Integrate the external hardware with the CATIA using the Arduino controller 
+description2: Description- Steering wheel joystick is used to apply brakes/steering inputs. Depending upon the control algorithm control actions are performed.
+description3: Result- The expected output of this model deals with the behavior of actuators and motors. It targets the crucial area of Systems Engineering like Testing and Virtual validations.
 video: Autosimulator.mp4
 ---
