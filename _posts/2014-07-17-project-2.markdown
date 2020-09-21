@@ -10,6 +10,6 @@ alt: image-alt
 project-date: June 2020
 client: Python, Matlab, Webots
 category: Computer Vision, Robotics
-description: Object identification can be done with various approaches like with the help of barcodes, RFID or vision systems. Based on the constraints and dependencies in our application I identified the object with the help of a camera using the combination of YOLO V3 algorithm for object detection and a color-detection algorithm to classify the object in order to get the classified object’s properties from the metadata.  
+description: Challenge- Different objects requires different grasping points based on their geometrical properties and this can be done if we identify them correctly. Solution- Object identification can be done with various approaches like with the help of barcodes, RFID or vision systems. Based on the constraints and dependencies in our application I identified the object with the help of a camera using the combination of YOLO V3 algorithm for object detection and a color-detection algorithm to classify the object in order to get the classified object’s properties from the metadata. Result- This algorithm was tested on different colored objects which were attached with different colored papers as well as multiple colors were attached on the single object and based on the sequence of colors the object was identified correctly in a structured environment.
 video: Object_detection480x852.mp4
 ---
