@@ -10,5 +10,5 @@ alt: image-alt
 project-date: November 2019
 client: Python, TensorFlow
 category: Neural Networks, Deep Learning
-description: In this assignment, I was using a pretrained network and apply it to new dataset. A pretrained Neural network called VGG16 was used for this purpose. 4 different class of test images were provided and the neural network that I created was able to detect these classes successfully with testing accuracy of 73.75%
+description: In this assignment, I was using a pretrained network and apply it to new dataset. A pretrained Neural network called VGG16 was used for this purpose. 4 different class of test images were provided and the neural network that I created was able to detect these classes successfully with testing accuracy of 73.75%.
 ---
